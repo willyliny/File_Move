@@ -4,7 +4,7 @@
 
 
 ```python
-Clicked ./dist/main.exe
+Clicked ./dist/main.exe in linux
 or
 python main.py
 ```
